@@ -1,3 +1,3 @@
-# week1_salary_calculator
+## ES6 Tutorial
 
-calculate salary you can get after some tax exclude.
+Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
