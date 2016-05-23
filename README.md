@@ -1,3 +1,10 @@
-## ES6 Tutorial
+## ES6 
 
-Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
+Using let variables
+Using Object and Array Destructuring
+Using Arrow Functions
+Using Template Strings
+Setting Up Webpack
+Using Modules
+Using Classes
+Using Promises
